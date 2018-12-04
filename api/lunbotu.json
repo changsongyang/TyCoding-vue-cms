@@ -1,0 +1,14 @@
+{
+    "code": "200",
+    "data": [
+        {
+            "url": "/api/img/img5.jpeg"
+        },
+        {
+            "url": "/api/img/img4.png"
+        },
+        {
+            "url": "/api/img/img3.png"
+        }
+    ]
+}
