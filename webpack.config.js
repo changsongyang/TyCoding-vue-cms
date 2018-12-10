@@ -16,7 +16,6 @@ module.exports = {
         hot: true, 
         open: true,
         port: 3000,
-        
     },
     plugins: [ //添加plugins节点配置插件
         new webpack.HotModuleReplacementPlugin(),
