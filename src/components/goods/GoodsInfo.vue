@@ -97,6 +97,11 @@ export default {
         //添加到购物车
         addToShopCar() {
             this.ballFlag = !this.ballFlag;
+            //拼接一个商品数据对象
+            var goodsInfo = { id: this.id, count: this.selectedCount, price: this.goodsinfo.price, selected: true };
+
+            //调用store中的mutations将商品加入到购物车中
+            this.$store.commit("addToCar", goodsInfo);
         },
         //钩子函数
         beforeEnter(el) {

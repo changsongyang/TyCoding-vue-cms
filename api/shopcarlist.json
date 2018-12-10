@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "data": [{
+        "id": 1,
+        "title": "Apple/苹果 iPhone 6s Plus 国行原装苹果6sp 5.5寸全网通4G手机",
+        "click": 122,
+        "url": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2249262840/O1CN011WqlHkrSuPEiHxd_!!2249262840.jpg_230x230.jpg",
+        "price": "2999",
+        "cost_price": "3300"
+    },{
+        "id": 2,
+        "title": "三星 Note II (N7100) 云石白 联通3G手机",
+        "click": 122,
+        "url": "http://img10.360buyimg.com/n1/s450x450_jfs/t3457/294/236823024/102048/c97f5825/58072422Ndd7e66c4.jpg",
+        "price": "2999",
+        "cost_price": "3300"
+    },{
+        "id": 3,
+        "title": "ins新款连帽毛领棉袄宽松棉衣女冬外套学生棉服",
+        "click": 122,
+        "url": "https://gw.alicdn.com/bao/uploaded/i3/2007932029/TB1vdlyaVzqK1RjSZFzXXXjrpXa_!!0-item_pic.jpg_180x180xz.jpg",
+        "price": "2999",
+        "cost_price": "3300"
+    }]
+}
